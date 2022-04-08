@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.421d2719.css",
-    "main.js": "/static/js/main.2cd6b5ae.js",
-    "index.html": "/index.html",
-    "main.421d2719.css.map": "/static/css/main.421d2719.css.map",
-    "main.2cd6b5ae.js.map": "/static/js/main.2cd6b5ae.js.map"
+    "main.css": "/markdown-editor.github.io/static/css/main.421d2719.css",
+    "main.js": "/markdown-editor.github.io/static/js/main.2cd6b5ae.js",
+    "index.html": "/markdown-editor.github.io/index.html",
+    "main.421d2719.css.map": "/markdown-editor.github.io/static/css/main.421d2719.css.map",
+    "main.2cd6b5ae.js.map": "/markdown-editor.github.io/static/js/main.2cd6b5ae.js.map"
   },
   "entrypoints": [
     "static/css/main.421d2719.css",
